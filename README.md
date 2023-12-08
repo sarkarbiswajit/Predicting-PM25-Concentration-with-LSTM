@@ -129,6 +129,4 @@ print(f"MSE: {mse}, MAE: {mae}")
 
 ..................................................................
 
-I'm also giving google colab for the testing
 
-https://colab.research.google.com/drive/1_JNhIrSnDD4wun_mNs1XHRvi5hnEXLhT?usp=sharing
